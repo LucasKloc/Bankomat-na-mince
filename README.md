@@ -1,0 +1,1 @@
+# Bankomat-na-mince
