@@ -20,3 +20,6 @@
 
 <h1>Webová stránka:<h1>
   <a href = "https://projekt-bankomat-na-mince.webnode.cz/">https://projekt-bankomat-na-mince.webnode.cz/ </a>
+  
+  <h1>Odkaz na video:<h1>
+  <a href = "https://youtu.be/psYr2f35xoU">https://youtu.be/psYr2f35xoU</a>
