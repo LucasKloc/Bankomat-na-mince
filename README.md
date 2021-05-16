@@ -23,3 +23,6 @@
   
   <h1>Odkaz na video:<h1>
   <a href = "https://youtu.be/psYr2f35xoU">https://youtu.be/psYr2f35xoU</a>
+  
+  <h1>Odkaz na ThingSpeak:<h1>
+  <a href = "https://thingspeak.com/channels/1353648">https://thingspeak.com/channels/1353648</a>
