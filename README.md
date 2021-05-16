@@ -1,4 +1,4 @@
-# */*/*/*/*/*/*/*/*/*/*/*Bankomat-na-mince*/*/*/*/**/*/*/*/*
+# Bankomat-na-mince
 <h1> Arduino - součástky: </h1> 
 <li> RFID čtečka </li>
 <li> RFID karta,čip</li>
