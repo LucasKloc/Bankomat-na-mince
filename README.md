@@ -19,4 +19,4 @@
 <li>- [x] Výběr žetonů se sestavěného modelu </li>
 
 <h1>Webová stránka:<h1>
-  <a href = https://projekt-bankomat-na-mince.webnode.cz/ </a>
+  <a href = "https://projekt-bankomat-na-mince.webnode.cz/">https://projekt-bankomat-na-mince.webnode.cz/ </a>
